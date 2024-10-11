@@ -1,4 +1,4 @@
-public class Objective2class3 {
+public class Objective2Lab3 {
 	public static void main(String[] args) {
 		int birth_year = 2002;
 		String birth_month = "march";
